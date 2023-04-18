@@ -82,9 +82,11 @@
 
 ### Creating a New User,
 
-`anup@ubuntu-18046:~$ adduser ubuuntu-user`
+`anup@ubuntu-18046:~$ adduser ubuntu-user`
 
-`anup@ubuntu-18046:~$ usermod -aG sudo ubuuntu-user`
+`anup@ubuntu-18046:~$ usermod -aG sudo ubuntu-user`
+
+`anup@ubuntu-18046:~$ finger ubuntu-user`
 
 <br>
 
