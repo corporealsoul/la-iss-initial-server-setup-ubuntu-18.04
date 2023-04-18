@@ -146,7 +146,7 @@
 
 `anup@ubuntu-18046:~$ sudo ufw app list`
 
-anup@ubuntu-18046:~$ sudo ufw status
+`anup@ubuntu-18046:~$ sudo ufw status`
 
 <br>
 
