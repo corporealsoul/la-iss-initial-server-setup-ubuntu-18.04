@@ -17,7 +17,7 @@
 `anup@ubuntu-18046:~$ sudo nano /etc/hosts`
 
     127.0.0.1 localhost
-    127.0.1.1 canvaslms
+    127.0.1.1 ubuntu-18046
     
     # The following lines are desirable for IPv6 capable hosts
     ::1     ip6-localhost ip6-loopback
