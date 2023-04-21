@@ -104,6 +104,8 @@
 
 **Load,** `anup@ubuntu-18046:~$ htop`
 
+anup@ubuntu-18046:~$ df -h
+
 <br>
 
 ### Processes,
