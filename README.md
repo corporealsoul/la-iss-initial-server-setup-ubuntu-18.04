@@ -104,7 +104,7 @@
 
 **Load,** `anup@ubuntu-18046:~$ htop`
 
-anup@ubuntu-18046:~$ df -h
+**Drive,** `anup@ubuntu-18046:~$ df -h`
 
 <br>
 
@@ -159,6 +159,12 @@ anup@ubuntu-18046:~$ df -h
 `anup@ubuntu-18046:~$ sudo apt-get install htop`
 
 `anup@ubuntu-18046:~$ sudo apt-get install multitail`
+
+<br>
+
+### Logs,
+
+`anup@ubuntu-18046:~$ ls -ltr /var/log`
 
 <br>
 
