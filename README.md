@@ -1,3 +1,18 @@
+### SSH to the server,
+
+`anup@ubuntu-18046:~$ sudo apt-get install net-tools`
+
+`anup@ubuntu-18046:~$ sudo apt-get install openssh-server`
+
+`anup@ubuntu-18046:~$ sudo apt-get install openssh-client`
+
+
+`anup@ubuntu-18046:~$ ifconfig`
+
+`PS C:\Users\uniqs> ssh anup@192.168.56.101`
+
+<br>
+
 ### Platform,
 
 `anup@ubuntu-18046:~$ cat /etc/os-release`
